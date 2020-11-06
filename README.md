@@ -1,6 +1,6 @@
 # Using Toggl
 
-![Toggl logo](https://toggl.com/site/images/media-toolkit/logo_02-644bd26148b73c19d9c91e5baecd8e31.jpg)
+![Toggl logo](https://public-assets.toggl.com/a/assets/@toggl/track/images/logo_01.62962d41.jpg)
 
 Hey team! We decided to use [Toggl]() for tracking client work. This repository is going to provide the details on how we want to use Toggl and provide useful links external documentation and installers. 
 
