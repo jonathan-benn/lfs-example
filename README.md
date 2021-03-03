@@ -8,6 +8,8 @@ Hey team! We decided to use [Toggl]() for tracking client work. This repository 
 
 To install the Toggl app, make sure to download the desktop application that has gone through our IT Security review found here: [Download Toggl](https://github.com/githubschool/lfs-example/blob/master/TogglDesktop-7_4_373.dmg)
 
+When downloading Toggl, don't forget to use password: `h0wdyP4rtner`
+
 ## Time Tracking 101
 
 Individual units of time in Toggl are called Time Entries. Each time entry contains information about the start and stop time, duration and the app used to track the time. Information such as the description, project and tags can also be added to a time entry. 
