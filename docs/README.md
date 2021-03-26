@@ -1,3 +1,3 @@
-# Headline
+# Git LFS (Large File Storage) walkthrough
 
-> An awesome project.
+> This is a practical guide with exercises to learn Git LFS basics!
