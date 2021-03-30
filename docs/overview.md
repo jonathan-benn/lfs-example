@@ -1,6 +1,6 @@
 # Overview
 
-This repository provides an opportunity to work with Git Large File Storage (LFS). Git LFS is used to manage larger binary files in the history of your project, something standard Git isn't exceptional at. 
+This repository provides an opportunity to practice working with Git Large File Storage (Git LFS). Git LFS is a Git extension that manages large binary files more efficiently than Git does on its own.
 
 ## How to use this repo
 
