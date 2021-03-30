@@ -2,6 +2,8 @@
 
 This repository provides an opportunity to practice working with Git Large File Storage (Git LFS). Git LFS is a Git extension that manages large binary files more efficiently than Git does on its own.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uLR1RNqJ1Mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## How to use this repo
 
 ACME Incorporated is planning on using Toggl for time tracking and are using this repository to provide information on how to use Toggl and download the desktop application that has passed the IT Security team's audit.
