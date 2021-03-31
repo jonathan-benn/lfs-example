@@ -1,6 +1,6 @@
 * [Overview](/overview.md)
 * [Install Git LFS](/install.md)
 * [Scenario](/scenario.md)
-* [Exercise 1](/moving.md)
+* [Exercise 1: Git LFS Migration](/exercise1.md)
 * [Using Git LFS in other projects](/other-projects.md)
 * [Git LFS and Artifactory](/artifactory.md)
