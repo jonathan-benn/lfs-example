@@ -2,14 +2,14 @@
 
 Before we tell Git LFS what files to track, we should identify what files are taking up the most space in our repository.
 
-#### Exploring the repository files
+## Exploring the repository files
 
 1. Open your command line application.
 1. Change your current working directory to the `lfs-example` repository.
 1. Run `git lfs migrate info`, your output should look similar to:
 
         ```sh
-        migrate: Fetching remote refs: ..., done.                               migrate: Sorting commits: ..., done.                               migrate: Examining commits: 100% (0/0), done. 
+        migrate: Fetching remote refs: ..., done.                               migrate: Sorting commits: ..., done.                               migrate: Examining commits: 100% (0/0), done.
         ```
 
     By default, `git lfs migrate info` only displays files that don't exist within commits on the remote repository.
@@ -24,9 +24,9 @@ Before we tell Git LFS what files to track, we should identify what files are ta
 
 > Note: If we only wanted to include files above a specific size, we could modify the previous command with `--above=1mb`
 
-Now that we have identified the file that needs to be tracked with Git LFS it is time to import it into Git LFS and automatically fix the existing history of the project. 
+Now that we have identified the file that needs to be tracked with Git LFS it is time to import it into Git LFS and automatically fix the existing history of the project.
 
-#### Migrating the file to Git LFS
+## Migrating the file to Git LFS
 
 1. In your command line application run, `git lfs migrate import --everything --include="*.dmg"`.
 
