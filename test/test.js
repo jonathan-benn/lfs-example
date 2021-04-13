@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 const add = require('../code/add.js');
 
